@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 [![Status](https://img.shields.io/badge/CLI-Ready-success.svg)]()
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2psem1mNmZvbmwyYmtqazVlajd2NGxqcGNuajVzZHEzYTB2d3ZvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mUr02X9d8bxR184ge0/giphy.gif" alt="gif" height="505" width="300"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFvbHV2cW00Z2ZxMjBzdm45czNpcTVtbnR3d3V0YnYzMWRwcGpobiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J2y6ZRvcKFQL71V7jA/giphy.gif" alt="gif" height="505" width="300"/>
 </p>
 
 A command-line tool to fetch trending GitHub repositories based on stars and creation date.
